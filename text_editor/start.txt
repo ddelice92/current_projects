@@ -1,1 +1,2 @@
 I need a text editor for quickly taking notes, needs features such as easily adding mathematical symbols
+https://www.geeksforgeeks.org/build-a-basic-text-editor-using-tkinter-in-python/
