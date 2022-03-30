@@ -1,0 +1,2 @@
+Would like to make a simple microcontroller based handheld gaming system
+Lcd screen
