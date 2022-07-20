@@ -1,2 +1,4 @@
 Would like to make a simple microcontroller based handheld gaming system
-Lcd screen
+controller attaches or connects to phone
+write game in kotlin or java
+write controller code in c++
