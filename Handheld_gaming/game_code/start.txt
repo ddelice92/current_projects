@@ -1,0 +1,19 @@
+put game code here
+possibly start with tetris
+
+--------------
+tetris game:
+1 sprite(square)
+5 unique arrangements
+  s
+  z
+  t
+  square
+  line
+choose random arrangement
+draw sprite in arrangement
+drop until bottom touches floor or top of another column
+check from bottom to top if any rows are full
+if row is full
+clear row and join separated rows
+if first block animation is overlapping another sprite, game over
